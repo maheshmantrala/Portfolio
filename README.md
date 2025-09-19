@@ -1,12 +1,36 @@
-# React + Vite
+🌟 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with React + Tailwind CSS to showcase my skills, projects, and experience.
+It is fully responsive with an Instagram-style bottom navigation bar for mobile screens.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Responsive Design – Works perfectly on mobile and desktop.
 
-## Expanding the ESLint configuration
+🧭 Smooth Navigation – Auto-highlights the active section.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔻 Mobile Bottom Nav – Instagram-style tab bar with icons & labels.
+
+🎨 Modern UI – Gradient backgrounds, animations, and clean layout.
+
+📂 Sections – About, Experience, Skills, Projects, Contact.
+
+🛠️ Tech Stack
+
+Frontend: React 18
+
+Styling: Tailwind CSS
+
+Icons: React Icons
+
+⚙️ Installation
+
+Clone the repo and install dependencies:
+
+git clone https://github.com/maheshmantrala/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+
+
+Then open → http://localhost:5173
