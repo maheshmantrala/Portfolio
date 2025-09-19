@@ -22,7 +22,7 @@ export default function Projects() {
       description:
         "Personal portfolio built with React and Tailwind CSS, showcasing skills, projects, and experience with smooth animations and responsive design.",
       tech: ["React", "Tailwind CSS", "React Icons"],
-      github: "https://github.com/yourusername/portfolio",
+      github: "https://github.com/maheshmantrala/Portfolio",
       demo: "#",
     },
   ];
