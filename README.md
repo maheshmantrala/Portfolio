@@ -30,7 +30,7 @@ Clone the repo and install dependencies:
 git clone https://github.com/maheshmantrala/Portfolio.git
 cd Portfolio
 npm install
-npm run dev
+npm run this
 
 
 Then open → http://localhost:5173
